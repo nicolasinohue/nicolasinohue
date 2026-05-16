@@ -73,16 +73,6 @@ Sistema de gestão de saúde com API CRUD completa utilizando banco NoSQL.
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasinohue&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasinohue/)
