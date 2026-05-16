@@ -77,9 +77,7 @@ Sistema de gestão de saúde com API CRUD completa utilizando banco NoSQL.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasinohue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasinohue&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasinohue&theme=tokyonight"/>
 
 </div>
 
